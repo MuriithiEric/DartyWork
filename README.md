@@ -10,9 +10,9 @@ I am recent engineering graduate looking for opportunities and collabaration in 
 ## June 2022 - Present
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git" />
+    <img src="https://skillicons.dev/icons?i=git" style="width:15px; height:15px;"/>
   </a>
-  - Project Lead & Technical audio designer • Fallen Echo
+  I’m currently learning Computer Vision and Deep Learning techniques using PyTorch.
 </p>
 
 
