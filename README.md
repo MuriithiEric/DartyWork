@@ -6,8 +6,8 @@ I am recent engineering graduate looking for opportunities and collabaration in 
 - 🌱 I’m currently learning Computer Vision and Deep Learning techniques using PyTorch.
 - 🤝 I’m looking to collaborate on data science and deep learning projects. 
 
-### Experience 🔭
-## June 2022 - Present
+## Experience 🔭
+### June 2022 - Present
 <h4 align="align-left">
   <a href="https://skillicons.dev">
     <img src="https://i.ytimg.com/vi/6L7ZnZtdIgk/maxresdefault.jpg" style="width:25px; height:25px;"/>
@@ -15,7 +15,7 @@ I am recent engineering graduate looking for opportunities and collabaration in 
   Project Lead & Technical Audio Designer @<b>Project Fallen Echo</b>.
 </h4>
 
-## August 2022 - Present
+### August 2022 - Present
 
 <h4 align="align-left">
   <a href="https://skillicons.dev">
@@ -24,7 +24,7 @@ I am recent engineering graduate looking for opportunities and collabaration in 
   Dialogue Editor & Music Designer @<b>Ubunifu Podcast</b>.
 </h4>
 
-## May 2017 - February 2020
+### May 2017 - February 2020
 
 <h4 align="align-left">
   <a href="https://skillicons.dev">
