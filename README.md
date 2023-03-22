@@ -8,12 +8,12 @@ I am recent engineering graduate looking for opportunities and collabaration in 
 
 ### Experience 🔭
 ## June 2022 - Present
-<p align="center">
+<h4 align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git" style="width:15px; height:15px;"/>
+    <img src="[https://skillicons.dev/icons?i=git](https://i.ytimg.com/vi/6L7ZnZtdIgk/maxresdefault.jpg)" style="width:25px; height:25px;"/>
   </a>
-  I’m currently learning Computer Vision and Deep Learning techniques using PyTorch.
-</p>
+  Project Lead & Technical Audio Designer @<b>Project Fallen Echo</b>.
+</h4>
 
 
 
