@@ -1,6 +1,6 @@
-<img src="https://avatars.githubusercontent.com/u/105855282?v=4">
+<img src="https://avatars.githubusercontent.com/u/105855282?v=4" style="border: 15px;">
 
-### Hi 👋
+### Hi I'm Steve👋
 I am recent engineering graduate looking for opportunities and collabaration in projects related to data science and deep learning.
 - 🔭 I’m currently working on image classification (also, I am brushing up my data structures and algorithms skills regularly).
 - 🌱 I’m currently learning Computer Vision and Deep Learning techniques using PyTorch.
@@ -14,7 +14,9 @@ I am recent engineering graduate looking for opportunities and collabaration in 
   </a>
   Project Lead & Technical Audio Designer @<b>Project Fallen Echo</b>.
 </h3>
+
 ## August 2022 - Present
+
 <h3 align="center">
   <a href="https://skillicons.dev">
     <img src="https://stitcher.imgix.net/ffdfbcef138adc29d4c3612d595cce5852d0aa00b6e0ba182098c77ce17b247e?w=600&h=600" style="width:25px; height:25px;"/>
