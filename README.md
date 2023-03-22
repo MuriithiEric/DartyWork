@@ -10,7 +10,7 @@ I am recent engineering graduate looking for opportunities and collabaration in 
 ## June 2022 - Present
 <h4 align="center">
   <a href="https://skillicons.dev">
-    <img src="[https://skillicons.dev/icons?i=git](https://i.ytimg.com/vi/6L7ZnZtdIgk/maxresdefault.jpg)" style="width:25px; height:25px;"/>
+    <img src="https://i.ytimg.com/vi/6L7ZnZtdIgk/maxresdefault.jpg" style="width:25px; height:25px;"/>
   </a>
   Project Lead & Technical Audio Designer @<b>Project Fallen Echo</b>.
 </h4>
