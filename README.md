@@ -1,4 +1,4 @@
-<img src="https://github.com/pr2tik1/pr2tik1/blob/master/IMAGE-NAME">
+<img src="https://media.licdn.com/dms/image/D4D03AQECtV67AztPKg/profile-displayphoto-shrink_400_400/0/1674473088403?e=1684972800&v=beta&t=njR7S2PS64HVRvHOU9QgcY5NEBlpPds-OgySKEb_M3s">
 
 ### Hi 👋
 I am recent engineering graduate looking for opportunities and collabaration in projects related to data science and deep learning.
