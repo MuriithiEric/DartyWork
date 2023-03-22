@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/D4D03AQECtV67AztPKg/profile-displayphoto-shrink_400_400/0/1674473088403?e=1684972800&v=beta&t=njR7S2PS64HVRvHOU9QgcY5NEBlpPds-OgySKEb_M3s">
+<img src="https://avatars.githubusercontent.com/u/105855282?v=4">
 
 ### Hi 👋
 I am recent engineering graduate looking for opportunities and collabaration in projects related to data science and deep learning.
@@ -8,12 +8,19 @@ I am recent engineering graduate looking for opportunities and collabaration in 
 
 ### Experience 🔭
 ## June 2022 - Present
-<h4 align="center">
+<h3 align="center">
   <a href="https://skillicons.dev">
     <img src="https://i.ytimg.com/vi/6L7ZnZtdIgk/maxresdefault.jpg" style="width:25px; height:25px;"/>
   </a>
   Project Lead & Technical Audio Designer @<b>Project Fallen Echo</b>.
-</h4>
+</h3>
+
+<h3 align="center">
+  <a href="https://skillicons.dev">
+    <img src="[https://i.ytimg.com/vi/6L7ZnZtdIgk/maxresdefault.jpg](https://stitcher.imgix.net/ffdfbcef138adc29d4c3612d595cce5852d0aa00b6e0ba182098c77ce17b247e?w=600&h=600)" style="width:25px; height:25px;"/>
+  </a>
+  Dialogue Editor & Music Designer @<b>Ubunifu Podcast</b>.
+</h3>
 
 
 
